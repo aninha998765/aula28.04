@@ -26,7 +26,7 @@ public class CalculadoraSimples{
 
             if(op == 1){
                 System.out.println("\n\t\t\t -- Soma-- \n");
-                //Júlia Mogi
+                //Júlia P. Mogi
                 //Entrada 
                 System.out.print("informe N1:");
                 n1 = entrada.nextInt();
